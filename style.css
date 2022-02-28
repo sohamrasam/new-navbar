@@ -86,7 +86,7 @@ header label{
         padding: 20px;
     }
     header .logo{
-        font-size: 25px;
+        width: 80%;
     }
     header label{
         display: initial;
